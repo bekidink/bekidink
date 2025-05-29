@@ -5,10 +5,15 @@ With a keen eye for detail and a commitment to staying abreast of the latest ind
 Let's collaborate to bring your vision to life and create impactful digital experiences that resonate with your audience. Connect with me to explore how we can elevate your projects to new heights!
 
 - 👋 Hi, I’m Bereket Dinku
+  
 - 👀 I’m interested in mobile app and website development
+  
 🌍  I'm based in Ethiopia
+
 🖥️  See my portfolio at portfolio-six-theta-74.vercel.app
+
 ✉️  You can contact me at bereketdinku876@gmail.com
+
 🤝  I'm open to collaborating on frontend and backend projects
 
 <!---
